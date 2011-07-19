@@ -6,6 +6,10 @@ Es war einmal
 Chapter 2
 To be or not to be
 Ètre ou non ètre pas
+<<<<<<< HEAD
 Sein oder nicht sein
 
 add 1
+=======
+Sein oder nicht sein
+>>>>>>> refs/remotes/origin/topic1
