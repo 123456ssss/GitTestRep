@@ -12,8 +12,4 @@ mast fix 1
 
 mast fix 2 & mast fix from mastfix2
 
-before fetch
-
-from helloworld
-
-ddd
+merged
