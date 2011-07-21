@@ -25,3 +25,5 @@ from 2 rebase test 1
 change in master 1
 
 change in master 1 time 1
+
+change in master 1 time 2
