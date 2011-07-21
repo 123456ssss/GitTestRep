@@ -16,4 +16,8 @@ merged
 
 from 1 and from 2
 
+from 1 again
+
+from 1 rebase test 1
+
 from 2 rebase test 1
