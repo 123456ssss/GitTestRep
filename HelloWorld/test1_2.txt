@@ -45,3 +45,5 @@ chagne from master2 2
 change from master2 3
 
 change from master1 topicTest 1
+
+change from master1 topic1_2 1
