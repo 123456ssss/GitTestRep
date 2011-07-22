@@ -60,6 +60,11 @@ c5
 test begin
 c0
 c1
+[c2
+c4
+c7
+c8
+c11]
 c3
 c9
 c10
