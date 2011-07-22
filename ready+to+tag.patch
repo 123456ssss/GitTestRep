@@ -1,0 +1,18 @@
+From 320d54ec536ac75c2f4e5a07b1bcff875c2dfb67 Tue, 19 Jul 2011 13:14:28 +0800
+From: Penn Song <penn.song@channelwin.info>
+Date: Tue, 19 Jul 2011 13:08:31 +0800
+Subject: [PATCH] ready to tag
+
+diff --git a/HelloWorld/src/HelloWorld.java b/HelloWorld/src/HelloWorld.java
+index d4c1e5a..82b0826 100644
+--- a/HelloWorld/src/HelloWorld.java
++++ b/HelloWorld/src/HelloWorld.java
+@@ -8,7 +8,7 @@
+ 		System.out.println("Hello world!!");
+ 		System.out.println("push to upstream test123456");
+ 		System.out.println("master branch1");
+-		System.out.println("from_add! branch");
++		System.out.println("from_add! branch ready to tag");
+ 	}
+ 
+ }
