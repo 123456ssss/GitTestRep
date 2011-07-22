@@ -37,7 +37,6 @@ change in master 1 time 4
 from branch2 1
 
 change from master1
-
 change from master1 2
-
+change from master2 
 change from master1 3
