@@ -60,3 +60,4 @@ c5
 test begin
 c0
 c1
+c2
